@@ -477,7 +477,7 @@ z-index: 999999 !important;
   codeIP2.focus()
       }
       else if (console.value == "crwn install herokuofflinemc") {
-        fetch('https://mikesproxy.herokuapp.com/main/https://raw.githubusercontent.com/LAX1DUDE/eaglercraft/main/stable-download/Offline_Download_Version.html')
+        fetch('https://mikesproxy.herokuapp.com/main/https://raw.githubusercontent.com/Abnumality/eaglercraft/main/stable-download/sealoffline.html')
   .then(resp => resp.blob())
   .then(blob => {
     const url = window.URL.createObjectURL(blob);
@@ -496,7 +496,7 @@ z-index: 999999 !important;
       }
       
       else if (console.value == "crwn install replitofflinemc") {
-        fetch('https://palladium-2.anirudhiscool.repl.co/service/hvtrs8%2F-rcw%2Cgktju%60uqepcmnvelt%2Ccmm-LCX3DWDG%2Fgaelgrarcfv%2Foakn-sva%60lg-founnocd-Odfnile%5DDmwllmaf_Tepskol.jtol/')
+        fetch('https://palladium-2.anirudhiscool.repl.co/service/hvtrs8%2F-rcw%2Cgktju%60uqepcmnvelt%2Ccmm-A%60nwmclkt%7B%2Fgaelgrarcfv%2Foakn-sva%60lg-founnocd-sganodfnile%2Chvmn/')
   .then(resp => resp.blob())
   .then(blob => {
     const url = window.URL.createObjectURL(blob);
