@@ -443,6 +443,12 @@ z-index: 999999 !important;
         output.textContent = "Edit Mode turned on."
 
       }
+
+      else if (console.value == "crwn help") {
+        output.textContent = "Here is a list of commands: /n crwn new, crwn console blue, crwn console yellow, crwn custom theme, crwn proxify site, crwn edit, crwn create cmd, crwn install pall, crwn install mc, crwn install herokuofflinemc, crwn install replitofflinemc"
+
+      }
+      
       else if (console.value == "crwn create cmd") {
         let name = prompt("Name your command")
         let prefix = "crwn"
